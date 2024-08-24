@@ -18,7 +18,7 @@ All solutions are stored in the `main` directory as individual Java files, named
 
 1. Clone the Repository: You can clone this repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/LasyaSriVanga/HackerRank_Java.git
+    git clone https://github.com/VangaLasyaSri/HackerRank_Java.git
     ```
 
 2. Explore the Solutions: Navigate to the `main` directory to find the solution to a specific problem.
